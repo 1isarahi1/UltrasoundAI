@@ -1,4 +1,4 @@
-# UltraSoundAI ([Link][[(https://main-communication-130427.framer.app/)](https://main-communication-130427.framer.app/)])
+# UltraSoundAI (([Link](https://main-communication-130427.framer.app/))
 
 # UltrasoundAI: Bridging the Healthcare Gap for Pregnant Women
 
